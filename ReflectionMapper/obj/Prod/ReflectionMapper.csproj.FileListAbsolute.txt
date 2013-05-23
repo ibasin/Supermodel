@@ -1,0 +1,4 @@
+C:\Users\Ilya\Documents\dot net workspace\Frameworks\ReflectionMapper\bin\Prod\ReflectionMapper.dll
+C:\Users\Ilya\Documents\dot net workspace\Frameworks\ReflectionMapper\bin\Prod\ReflectionMapper.pdb
+C:\Users\Ilya\Documents\dot net workspace\Frameworks\ReflectionMapper\obj\Prod\ReflectionMapper.dll
+C:\Users\Ilya\Documents\dot net workspace\Frameworks\ReflectionMapper\obj\Prod\ReflectionMapper.pdb

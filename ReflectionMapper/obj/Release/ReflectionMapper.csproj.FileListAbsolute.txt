@@ -1,0 +1,10 @@
+Y:\dot net workspace\Frameworks\ReflectionMapper\bin\Release\ReflectionMapper.dll
+Y:\dot net workspace\Frameworks\ReflectionMapper\bin\Release\ReflectionMapper.pdb
+Y:\dot net workspace\Frameworks\ReflectionMapper\obj\Release\ReflectionMapper.csprojResolveAssemblyReference.cache
+Y:\dot net workspace\Frameworks\ReflectionMapper\obj\Release\ReflectionMapper.dll
+Y:\dot net workspace\Frameworks\ReflectionMapper\obj\Release\ReflectionMapper.pdb
+C:\Users\Ilya\Documents\dot net workspace\Frameworks\ReflectionMapper\bin\Release\ReflectionMapper.dll
+C:\Users\Ilya\Documents\dot net workspace\Frameworks\ReflectionMapper\bin\Release\ReflectionMapper.pdb
+C:\Users\Ilya\Documents\dot net workspace\Frameworks\ReflectionMapper\obj\Release\ReflectionMapper.csprojResolveAssemblyReference.cache
+C:\Users\Ilya\Documents\dot net workspace\Frameworks\ReflectionMapper\obj\Release\ReflectionMapper.dll
+C:\Users\Ilya\Documents\dot net workspace\Frameworks\ReflectionMapper\obj\Release\ReflectionMapper.pdb

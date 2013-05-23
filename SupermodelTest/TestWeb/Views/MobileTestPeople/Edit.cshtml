@@ -1,0 +1,15 @@
+﻿@using Supermodel.Mvc.Extensions
+@using TestDomain.Entities
+@using TestWeb.Controllers
+
+@model TestPersonMobileMvcModel
+
+@{
+    Layout = "~/Views/Shared/MasterLayout.cshtml";
+}
+
+@(Html.Supermodel().CRUDEditJQMobile<TestPerson, TestPersonMobileMvcModel>(Model.Label, false, false, Model.ContainsBinaryFileProperties))
+<hr/>
+@(Html.Supermodel().CRUDChildrenListJQMobile<TestChild, TestChildMobileMvcModel>(Model.Children, typeof(MobileTestChildrenController), "Children", Model.Id))
+
+

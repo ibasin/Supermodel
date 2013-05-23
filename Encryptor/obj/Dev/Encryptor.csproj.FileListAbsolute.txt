@@ -1,0 +1,10 @@
+Y:\dot net workspace\Frameworks\Encryptor\bin\Dev\Encryptor.dll
+Y:\dot net workspace\Frameworks\Encryptor\bin\Dev\Encryptor.pdb
+Y:\dot net workspace\Frameworks\Encryptor\obj\Dev\Encryptor.csprojResolveAssemblyReference.cache
+Y:\dot net workspace\Frameworks\Encryptor\obj\Dev\Encryptor.dll
+Y:\dot net workspace\Frameworks\Encryptor\obj\Dev\Encryptor.pdb
+C:\Users\Ilya\Documents\dot net workspace\Frameworks\Encryptor\bin\Dev\Encryptor.dll
+C:\Users\Ilya\Documents\dot net workspace\Frameworks\Encryptor\bin\Dev\Encryptor.pdb
+C:\Users\Ilya\Documents\dot net workspace\Frameworks\Encryptor\obj\Dev\Encryptor.csprojResolveAssemblyReference.cache
+C:\Users\Ilya\Documents\dot net workspace\Frameworks\Encryptor\obj\Dev\Encryptor.dll
+C:\Users\Ilya\Documents\dot net workspace\Frameworks\Encryptor\obj\Dev\Encryptor.pdb

@@ -1,0 +1,15 @@
+C:\Projects\SETS\Frameworks\Encryptor\bin\Release\Encryptor.dll
+C:\Projects\SETS\Frameworks\Encryptor\bin\Release\Encryptor.pdb
+C:\Projects\SETS\Frameworks\Encryptor\obj\Release\ResolveAssemblyReference.cache
+C:\Projects\SETS\Frameworks\Encryptor\obj\Release\Encryptor.dll
+C:\Projects\SETS\Frameworks\Encryptor\obj\Release\Encryptor.pdb
+Y:\dot net workspace\Frameworks\Encryptor\bin\Release\Encryptor.dll
+Y:\dot net workspace\Frameworks\Encryptor\bin\Release\Encryptor.pdb
+Y:\dot net workspace\Frameworks\Encryptor\obj\Release\Encryptor.csprojResolveAssemblyReference.cache
+Y:\dot net workspace\Frameworks\Encryptor\obj\Release\Encryptor.dll
+Y:\dot net workspace\Frameworks\Encryptor\obj\Release\Encryptor.pdb
+C:\Users\Ilya\Documents\dot net workspace\Frameworks\Encryptor\bin\Release\Encryptor.dll
+C:\Users\Ilya\Documents\dot net workspace\Frameworks\Encryptor\bin\Release\Encryptor.pdb
+C:\Users\Ilya\Documents\dot net workspace\Frameworks\Encryptor\obj\Release\Encryptor.csprojResolveAssemblyReference.cache
+C:\Users\Ilya\Documents\dot net workspace\Frameworks\Encryptor\obj\Release\Encryptor.dll
+C:\Users\Ilya\Documents\dot net workspace\Frameworks\Encryptor\obj\Release\Encryptor.pdb

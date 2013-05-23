@@ -1,0 +1,41 @@
+C:\Projects\SETS\Frameworks\XMLParsingExtForLINQ\bin\Debug\XMLParsingExtForLINQ.dll
+C:\Projects\SETS\Frameworks\XMLParsingExtForLINQ\bin\Debug\XMLParsingExtForLINQ.pdb
+C:\Projects\SETS\Frameworks\XMLParsingExtForLINQ\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\SETS\Frameworks\XMLParsingExtForLINQ\obj\Debug\XMLParsingExtForLINQ.dll
+C:\Projects\SETS\Frameworks\XMLParsingExtForLINQ\obj\Debug\XMLParsingExtForLINQ.pdb
+X:\Projects\NoblisProjects4-18-2012\SETS\Frameworks\XMLParsingExtForLINQ\bin\Debug\XMLParsingExtForLINQ.dll
+X:\Projects\NoblisProjects4-18-2012\SETS\Frameworks\XMLParsingExtForLINQ\bin\Debug\XMLParsingExtForLINQ.pdb
+X:\Projects\NoblisProjects4-18-2012\SETS\Frameworks\XMLParsingExtForLINQ\obj\Debug\ResolveAssemblyReference.cache
+X:\Projects\NoblisProjects4-18-2012\SETS\Frameworks\XMLParsingExtForLINQ\obj\Debug\XMLParsingExtForLINQ.dll
+X:\Projects\NoblisProjects4-18-2012\SETS\Frameworks\XMLParsingExtForLINQ\obj\Debug\XMLParsingExtForLINQ.pdb
+Y:\Documents\Projects\iAm\iAmBack\Frameworks\XMLParsingExtForLINQ\bin\Debug\XMLParsingExtForLINQ.dll
+Y:\Documents\Projects\iAm\iAmBack\Frameworks\XMLParsingExtForLINQ\bin\Debug\XMLParsingExtForLINQ.pdb
+Y:\Documents\Projects\iAm\iAmBack\Frameworks\XMLParsingExtForLINQ\obj\Debug\ResolveAssemblyReference.cache
+Y:\Documents\Projects\iAm\iAmBack\Frameworks\XMLParsingExtForLINQ\obj\Debug\XMLParsingExtForLINQ.dll
+Y:\Documents\Projects\iAm\iAmBack\Frameworks\XMLParsingExtForLINQ\obj\Debug\XMLParsingExtForLINQ.pdb
+C:\Users\Ilya\Documents\Projects\iAmBack\Frameworks\XMLParsingExtForLINQ\bin\Debug\XMLParsingExtForLINQ.dll
+C:\Users\Ilya\Documents\Projects\iAmBack\Frameworks\XMLParsingExtForLINQ\bin\Debug\XMLParsingExtForLINQ.pdb
+C:\Users\Ilya\Documents\Projects\iAmBack\Frameworks\XMLParsingExtForLINQ\obj\Debug\XMLParsingExtForLINQ.dll
+C:\Users\Ilya\Documents\Projects\iAmBack\Frameworks\XMLParsingExtForLINQ\obj\Debug\XMLParsingExtForLINQ.pdb
+C:\Users\Ilya\Documents\Projects\.NET Workspace\Frameworks\XMLParsingExtForLINQ\bin\Debug\XMLParsingExtForLINQ.dll
+C:\Users\Ilya\Documents\Projects\.NET Workspace\Frameworks\XMLParsingExtForLINQ\bin\Debug\XMLParsingExtForLINQ.pdb
+C:\Users\Ilya\Documents\Projects\.NET Workspace\Frameworks\XMLParsingExtForLINQ\obj\Debug\XMLParsingExtForLINQ.dll
+C:\Users\Ilya\Documents\Projects\.NET Workspace\Frameworks\XMLParsingExtForLINQ\obj\Debug\XMLParsingExtForLINQ.pdb
+Z:\Projects\dot net workspace\Frameworks\XMLParsingExtForLINQ\bin\Debug\XMLParsingExtForLINQ.dll
+Z:\Projects\dot net workspace\Frameworks\XMLParsingExtForLINQ\bin\Debug\XMLParsingExtForLINQ.pdb
+Z:\Projects\dot net workspace\Frameworks\XMLParsingExtForLINQ\obj\Debug\XMLParsingExtForLINQ.csprojResolveAssemblyReference.cache
+Z:\Projects\dot net workspace\Frameworks\XMLParsingExtForLINQ\obj\Debug\XMLParsingExtForLINQ.dll
+Z:\Projects\dot net workspace\Frameworks\XMLParsingExtForLINQ\obj\Debug\XMLParsingExtForLINQ.pdb
+X:\dot net workspace\Frameworks\XMLParsingExtForLINQ\bin\Debug\XMLParsingExtForLINQ.dll
+X:\dot net workspace\Frameworks\XMLParsingExtForLINQ\bin\Debug\XMLParsingExtForLINQ.pdb
+X:\dot net workspace\Frameworks\XMLParsingExtForLINQ\obj\Debug\XMLParsingExtForLINQ.csprojResolveAssemblyReference.cache
+X:\dot net workspace\Frameworks\XMLParsingExtForLINQ\obj\Debug\XMLParsingExtForLINQ.dll
+X:\dot net workspace\Frameworks\XMLParsingExtForLINQ\obj\Debug\XMLParsingExtForLINQ.pdb
+Y:\dot net workspace\Frameworks\XMLParsingExtForLINQ\bin\Debug\XMLParsingExtForLINQ.dll
+Y:\dot net workspace\Frameworks\XMLParsingExtForLINQ\bin\Debug\XMLParsingExtForLINQ.pdb
+Y:\dot net workspace\Frameworks\XMLParsingExtForLINQ\obj\Debug\XMLParsingExtForLINQ.dll
+Y:\dot net workspace\Frameworks\XMLParsingExtForLINQ\obj\Debug\XMLParsingExtForLINQ.pdb
+C:\Users\Ilya\Documents\dot net workspace\Frameworks\XMLParsingExtForLINQ\bin\Debug\XMLParsingExtForLINQ.dll
+C:\Users\Ilya\Documents\dot net workspace\Frameworks\XMLParsingExtForLINQ\bin\Debug\XMLParsingExtForLINQ.pdb
+C:\Users\Ilya\Documents\dot net workspace\Frameworks\XMLParsingExtForLINQ\obj\Debug\XMLParsingExtForLINQ.dll
+C:\Users\Ilya\Documents\dot net workspace\Frameworks\XMLParsingExtForLINQ\obj\Debug\XMLParsingExtForLINQ.pdb

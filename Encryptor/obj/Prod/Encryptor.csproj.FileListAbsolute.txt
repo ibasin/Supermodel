@@ -1,0 +1,4 @@
+C:\Users\Ilya\Documents\dot net workspace\Frameworks\Encryptor\bin\Prod\Encryptor.dll
+C:\Users\Ilya\Documents\dot net workspace\Frameworks\Encryptor\bin\Prod\Encryptor.pdb
+C:\Users\Ilya\Documents\dot net workspace\Frameworks\Encryptor\obj\Prod\Encryptor.dll
+C:\Users\Ilya\Documents\dot net workspace\Frameworks\Encryptor\obj\Prod\Encryptor.pdb

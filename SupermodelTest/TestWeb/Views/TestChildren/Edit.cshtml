@@ -1,0 +1,11 @@
+﻿@using Supermodel.Mvc.Extensions
+@using TestDomain.Entities
+
+@model TestChildMvcModel
+
+@{
+    ViewBag.Title = "Edit";
+    //Layout = "~/Views/Shared/SETSLayout.cshtml";
+}
+
+@(Html.Supermodel().CRUDEdit<TestChild, TestChildMvcModel>("Child"))

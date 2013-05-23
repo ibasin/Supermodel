@@ -1,0 +1,176 @@
+X:\Projects\iAm\iAmBack\TestDomain\bin\Debug\TestDomain.dll.config
+X:\Projects\iAm\iAmBack\TestDomain\bin\Debug\TestDomain.dll
+X:\Projects\iAm\iAmBack\TestDomain\bin\Debug\TestDomain.pdb
+X:\Projects\iAm\iAmBack\TestDomain\bin\Debug\EntityFramework.dll
+X:\Projects\iAm\iAmBack\TestDomain\bin\Debug\ReflectionMapper.dll
+X:\Projects\iAm\iAmBack\TestDomain\bin\Debug\Supermodel.dll
+X:\Projects\iAm\iAmBack\TestDomain\bin\Debug\System.Web.Http.dll
+X:\Projects\iAm\iAmBack\TestDomain\bin\Debug\System.Net.Http.dll
+X:\Projects\iAm\iAmBack\TestDomain\bin\Debug\System.Net.Http.Formatting.dll
+X:\Projects\iAm\iAmBack\TestDomain\bin\Debug\ReflectionMapper.pdb
+X:\Projects\iAm\iAmBack\TestDomain\bin\Debug\Supermodel.pdb
+X:\Projects\iAm\iAmBack\TestDomain\bin\Debug\EntityFramework.xml
+X:\Projects\iAm\iAmBack\TestDomain\bin\Debug\System.Web.Http.xml
+X:\Projects\iAm\iAmBack\TestDomain\bin\Debug\System.Net.Http.xml
+X:\Projects\iAm\iAmBack\TestDomain\bin\Debug\System.Net.Http.Formatting.xml
+X:\Projects\iAm\iAmBack\TestDomain\obj\Debug\ResolveAssemblyReference.cache
+X:\Projects\iAm\iAmBack\TestDomain\obj\Debug\TestDomain.dll
+X:\Projects\iAm\iAmBack\TestDomain\obj\Debug\TestDomain.pdb
+Y:\Documents\Projects\iAm\iAmBack\TestDomain\bin\Debug\TestDomain.dll.config
+Y:\Documents\Projects\iAm\iAmBack\TestDomain\bin\Debug\TestDomain.dll
+Y:\Documents\Projects\iAm\iAmBack\TestDomain\bin\Debug\TestDomain.pdb
+Y:\Documents\Projects\iAm\iAmBack\TestDomain\bin\Debug\EntityFramework.dll
+Y:\Documents\Projects\iAm\iAmBack\TestDomain\bin\Debug\ReflectionMapper.dll
+Y:\Documents\Projects\iAm\iAmBack\TestDomain\bin\Debug\Supermodel.dll
+Y:\Documents\Projects\iAm\iAmBack\TestDomain\bin\Debug\System.Web.Http.dll
+Y:\Documents\Projects\iAm\iAmBack\TestDomain\bin\Debug\System.Net.Http.dll
+Y:\Documents\Projects\iAm\iAmBack\TestDomain\bin\Debug\System.Net.Http.Formatting.dll
+Y:\Documents\Projects\iAm\iAmBack\TestDomain\bin\Debug\ReflectionMapper.pdb
+Y:\Documents\Projects\iAm\iAmBack\TestDomain\bin\Debug\Supermodel.pdb
+Y:\Documents\Projects\iAm\iAmBack\TestDomain\bin\Debug\EntityFramework.xml
+Y:\Documents\Projects\iAm\iAmBack\TestDomain\bin\Debug\System.Web.Http.xml
+Y:\Documents\Projects\iAm\iAmBack\TestDomain\bin\Debug\System.Net.Http.xml
+Y:\Documents\Projects\iAm\iAmBack\TestDomain\bin\Debug\System.Net.Http.Formatting.xml
+Y:\Documents\Projects\iAm\iAmBack\TestDomain\obj\Debug\ResolveAssemblyReference.cache
+Y:\Documents\Projects\iAm\iAmBack\TestDomain\obj\Debug\TestDomain.dll
+Y:\Documents\Projects\iAm\iAmBack\TestDomain\obj\Debug\TestDomain.pdb
+Y:\Documents\Projects\iAm\iAmBack\TestDomain\bin\Debug\Newtonsoft.Json.dll
+Y:\Documents\Projects\iAm\iAmBack\TestDomain\bin\Debug\Newtonsoft.Json.xml
+Y:\Documents\Projects\iAm\iAmBack\SupermodelTest\TestDomain\bin\Debug\TestDomain.dll.config
+Y:\Documents\Projects\iAm\iAmBack\SupermodelTest\TestDomain\bin\Debug\TestDomain.dll
+Y:\Documents\Projects\iAm\iAmBack\SupermodelTest\TestDomain\bin\Debug\TestDomain.pdb
+Y:\Documents\Projects\iAm\iAmBack\SupermodelTest\TestDomain\bin\Debug\ReflectionMapper.dll
+Y:\Documents\Projects\iAm\iAmBack\SupermodelTest\TestDomain\bin\Debug\Supermodel.dll
+Y:\Documents\Projects\iAm\iAmBack\SupermodelTest\TestDomain\bin\Debug\System.Web.Http.dll
+Y:\Documents\Projects\iAm\iAmBack\SupermodelTest\TestDomain\bin\Debug\System.Net.Http.dll
+Y:\Documents\Projects\iAm\iAmBack\SupermodelTest\TestDomain\bin\Debug\System.Net.Http.Formatting.dll
+Y:\Documents\Projects\iAm\iAmBack\SupermodelTest\TestDomain\bin\Debug\Newtonsoft.Json.dll
+Y:\Documents\Projects\iAm\iAmBack\SupermodelTest\TestDomain\bin\Debug\ReflectionMapper.pdb
+Y:\Documents\Projects\iAm\iAmBack\SupermodelTest\TestDomain\bin\Debug\Supermodel.pdb
+Y:\Documents\Projects\iAm\iAmBack\SupermodelTest\TestDomain\bin\Debug\EntityFramework.xml
+Y:\Documents\Projects\iAm\iAmBack\SupermodelTest\TestDomain\bin\Debug\System.Web.Http.xml
+Y:\Documents\Projects\iAm\iAmBack\SupermodelTest\TestDomain\bin\Debug\System.Net.Http.xml
+Y:\Documents\Projects\iAm\iAmBack\SupermodelTest\TestDomain\bin\Debug\System.Net.Http.Formatting.xml
+Y:\Documents\Projects\iAm\iAmBack\SupermodelTest\TestDomain\bin\Debug\Newtonsoft.Json.xml
+Y:\Documents\Projects\iAm\iAmBack\SupermodelTest\TestDomain\obj\Debug\ResolveAssemblyReference.cache
+Y:\Documents\Projects\iAm\iAmBack\SupermodelTest\TestDomain\obj\Debug\TestDomain.dll
+Y:\Documents\Projects\iAm\iAmBack\SupermodelTest\TestDomain\obj\Debug\TestDomain.pdb
+Y:\Documents\Projects\iAm\iAmBack\SupermodelTest\TestDomain\bin\Debug\EntityFramework.dll
+C:\Users\Ilya\Documents\Projects\iAmBack\SupermodelTest\TestDomain\bin\Debug\TestDomain.dll.config
+C:\Users\Ilya\Documents\Projects\iAmBack\SupermodelTest\TestDomain\bin\Debug\TestDomain.dll
+C:\Users\Ilya\Documents\Projects\iAmBack\SupermodelTest\TestDomain\bin\Debug\TestDomain.pdb
+C:\Users\Ilya\Documents\Projects\iAmBack\SupermodelTest\TestDomain\bin\Debug\EntityFramework.dll
+C:\Users\Ilya\Documents\Projects\iAmBack\SupermodelTest\TestDomain\bin\Debug\ReflectionMapper.dll
+C:\Users\Ilya\Documents\Projects\iAmBack\SupermodelTest\TestDomain\bin\Debug\Supermodel.dll
+C:\Users\Ilya\Documents\Projects\iAmBack\SupermodelTest\TestDomain\bin\Debug\System.Web.Http.dll
+C:\Users\Ilya\Documents\Projects\iAmBack\SupermodelTest\TestDomain\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ilya\Documents\Projects\iAmBack\SupermodelTest\TestDomain\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Ilya\Documents\Projects\iAmBack\SupermodelTest\TestDomain\bin\Debug\ReflectionMapper.pdb
+C:\Users\Ilya\Documents\Projects\iAmBack\SupermodelTest\TestDomain\bin\Debug\Supermodel.pdb
+C:\Users\Ilya\Documents\Projects\iAmBack\SupermodelTest\TestDomain\bin\Debug\EntityFramework.xml
+C:\Users\Ilya\Documents\Projects\iAmBack\SupermodelTest\TestDomain\bin\Debug\System.Web.Http.xml
+C:\Users\Ilya\Documents\Projects\iAmBack\SupermodelTest\TestDomain\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ilya\Documents\Projects\iAmBack\SupermodelTest\TestDomain\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Ilya\Documents\Projects\iAmBack\SupermodelTest\TestDomain\obj\Debug\TestDomain.csprojResolveAssemblyReference.cache
+C:\Users\Ilya\Documents\Projects\iAmBack\SupermodelTest\TestDomain\obj\Debug\TestDomain.dll
+C:\Users\Ilya\Documents\Projects\iAmBack\SupermodelTest\TestDomain\obj\Debug\TestDomain.pdb
+C:\Users\Ilya\Documents\Projects\.NET Workspace\Frameworks\SupermodelTest\TestDomain\bin\Debug\TestDomain.dll.config
+C:\Users\Ilya\Documents\Projects\.NET Workspace\Frameworks\SupermodelTest\TestDomain\bin\Debug\TestDomain.dll
+C:\Users\Ilya\Documents\Projects\.NET Workspace\Frameworks\SupermodelTest\TestDomain\bin\Debug\TestDomain.pdb
+C:\Users\Ilya\Documents\Projects\.NET Workspace\Frameworks\SupermodelTest\TestDomain\bin\Debug\ReflectionMapper.dll
+C:\Users\Ilya\Documents\Projects\.NET Workspace\Frameworks\SupermodelTest\TestDomain\bin\Debug\Supermodel.dll
+C:\Users\Ilya\Documents\Projects\.NET Workspace\Frameworks\SupermodelTest\TestDomain\bin\Debug\System.Web.Http.dll
+C:\Users\Ilya\Documents\Projects\.NET Workspace\Frameworks\SupermodelTest\TestDomain\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ilya\Documents\Projects\.NET Workspace\Frameworks\SupermodelTest\TestDomain\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Ilya\Documents\Projects\.NET Workspace\Frameworks\SupermodelTest\TestDomain\bin\Debug\ReflectionMapper.pdb
+C:\Users\Ilya\Documents\Projects\.NET Workspace\Frameworks\SupermodelTest\TestDomain\bin\Debug\Supermodel.pdb
+C:\Users\Ilya\Documents\Projects\.NET Workspace\Frameworks\SupermodelTest\TestDomain\bin\Debug\System.Web.Http.xml
+C:\Users\Ilya\Documents\Projects\.NET Workspace\Frameworks\SupermodelTest\TestDomain\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ilya\Documents\Projects\.NET Workspace\Frameworks\SupermodelTest\TestDomain\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Ilya\Documents\Projects\.NET Workspace\Frameworks\SupermodelTest\TestDomain\obj\Debug\TestDomain.csprojResolveAssemblyReference.cache
+C:\Users\Ilya\Documents\Projects\.NET Workspace\Frameworks\SupermodelTest\TestDomain\obj\Debug\TestDomain.dll
+C:\Users\Ilya\Documents\Projects\.NET Workspace\Frameworks\SupermodelTest\TestDomain\obj\Debug\TestDomain.pdb
+Z:\Projects\dot net workspace\Frameworks\SupermodelTest\TestDomain\bin\Debug\TestDomain.dll.config
+Z:\Projects\dot net workspace\Frameworks\SupermodelTest\TestDomain\bin\Debug\TestDomain.dll
+Z:\Projects\dot net workspace\Frameworks\SupermodelTest\TestDomain\bin\Debug\TestDomain.pdb
+Z:\Projects\dot net workspace\Frameworks\SupermodelTest\TestDomain\bin\Debug\ReflectionMapper.dll
+Z:\Projects\dot net workspace\Frameworks\SupermodelTest\TestDomain\bin\Debug\Supermodel.dll
+Z:\Projects\dot net workspace\Frameworks\SupermodelTest\TestDomain\bin\Debug\System.Web.Http.dll
+Z:\Projects\dot net workspace\Frameworks\SupermodelTest\TestDomain\bin\Debug\Newtonsoft.Json.dll
+Z:\Projects\dot net workspace\Frameworks\SupermodelTest\TestDomain\bin\Debug\System.Net.Http.Formatting.dll
+Z:\Projects\dot net workspace\Frameworks\SupermodelTest\TestDomain\bin\Debug\ReflectionMapper.pdb
+Z:\Projects\dot net workspace\Frameworks\SupermodelTest\TestDomain\bin\Debug\Supermodel.pdb
+Z:\Projects\dot net workspace\Frameworks\SupermodelTest\TestDomain\bin\Debug\System.Web.Http.xml
+Z:\Projects\dot net workspace\Frameworks\SupermodelTest\TestDomain\bin\Debug\Newtonsoft.Json.xml
+Z:\Projects\dot net workspace\Frameworks\SupermodelTest\TestDomain\bin\Debug\System.Net.Http.Formatting.xml
+Z:\Projects\dot net workspace\Frameworks\SupermodelTest\TestDomain\obj\Debug\TestDomain.csprojResolveAssemblyReference.cache
+Z:\Projects\dot net workspace\Frameworks\SupermodelTest\TestDomain\obj\Debug\TestDomain.dll
+Z:\Projects\dot net workspace\Frameworks\SupermodelTest\TestDomain\obj\Debug\TestDomain.pdb
+X:\dot net workspace\Frameworks\SupermodelTest\TestDomain\bin\Debug\TestDomain.dll.config
+X:\dot net workspace\Frameworks\SupermodelTest\TestDomain\bin\Debug\TestDomain.dll
+X:\dot net workspace\Frameworks\SupermodelTest\TestDomain\bin\Debug\TestDomain.pdb
+X:\dot net workspace\Frameworks\SupermodelTest\TestDomain\bin\Debug\ReflectionMapper.dll
+X:\dot net workspace\Frameworks\SupermodelTest\TestDomain\bin\Debug\Supermodel.dll
+X:\dot net workspace\Frameworks\SupermodelTest\TestDomain\bin\Debug\System.Web.Http.dll
+X:\dot net workspace\Frameworks\SupermodelTest\TestDomain\bin\Debug\Newtonsoft.Json.dll
+X:\dot net workspace\Frameworks\SupermodelTest\TestDomain\bin\Debug\System.Net.Http.Formatting.dll
+X:\dot net workspace\Frameworks\SupermodelTest\TestDomain\bin\Debug\ReflectionMapper.pdb
+X:\dot net workspace\Frameworks\SupermodelTest\TestDomain\bin\Debug\Supermodel.pdb
+X:\dot net workspace\Frameworks\SupermodelTest\TestDomain\bin\Debug\System.Web.Http.xml
+X:\dot net workspace\Frameworks\SupermodelTest\TestDomain\bin\Debug\Newtonsoft.Json.xml
+X:\dot net workspace\Frameworks\SupermodelTest\TestDomain\bin\Debug\System.Net.Http.Formatting.xml
+X:\dot net workspace\Frameworks\SupermodelTest\TestDomain\obj\Debug\TestDomain.csprojResolveAssemblyReference.cache
+X:\dot net workspace\Frameworks\SupermodelTest\TestDomain\obj\Debug\TestDomain.dll
+X:\dot net workspace\Frameworks\SupermodelTest\TestDomain\obj\Debug\TestDomain.pdb
+Z:\dot net workspace\Frameworks\SupermodelTest\TestDomain\bin\Debug\TestDomain.dll.config
+Z:\dot net workspace\Frameworks\SupermodelTest\TestDomain\bin\Debug\TestDomain.dll
+Z:\dot net workspace\Frameworks\SupermodelTest\TestDomain\bin\Debug\TestDomain.pdb
+Z:\dot net workspace\Frameworks\SupermodelTest\TestDomain\bin\Debug\ReflectionMapper.dll
+Z:\dot net workspace\Frameworks\SupermodelTest\TestDomain\bin\Debug\Supermodel.dll
+Z:\dot net workspace\Frameworks\SupermodelTest\TestDomain\bin\Debug\System.Web.Http.dll
+Z:\dot net workspace\Frameworks\SupermodelTest\TestDomain\bin\Debug\Newtonsoft.Json.dll
+Z:\dot net workspace\Frameworks\SupermodelTest\TestDomain\bin\Debug\System.Net.Http.Formatting.dll
+Z:\dot net workspace\Frameworks\SupermodelTest\TestDomain\bin\Debug\ReflectionMapper.pdb
+Z:\dot net workspace\Frameworks\SupermodelTest\TestDomain\bin\Debug\Supermodel.pdb
+Z:\dot net workspace\Frameworks\SupermodelTest\TestDomain\bin\Debug\System.Web.Http.xml
+Z:\dot net workspace\Frameworks\SupermodelTest\TestDomain\bin\Debug\Newtonsoft.Json.xml
+Z:\dot net workspace\Frameworks\SupermodelTest\TestDomain\bin\Debug\System.Net.Http.Formatting.xml
+Z:\dot net workspace\Frameworks\SupermodelTest\TestDomain\obj\Debug\TestDomain.csprojResolveAssemblyReference.cache
+Z:\dot net workspace\Frameworks\SupermodelTest\TestDomain\obj\Debug\TestDomain.dll
+Z:\dot net workspace\Frameworks\SupermodelTest\TestDomain\obj\Debug\TestDomain.pdb
+Y:\dot net workspace\Frameworks\SupermodelTest\TestDomain\bin\Debug\TestDomain.dll.config
+Y:\dot net workspace\Frameworks\SupermodelTest\TestDomain\bin\Debug\TestDomain.dll
+Y:\dot net workspace\Frameworks\SupermodelTest\TestDomain\bin\Debug\TestDomain.pdb
+Y:\dot net workspace\Frameworks\SupermodelTest\TestDomain\bin\Debug\EntityFramework.dll
+Y:\dot net workspace\Frameworks\SupermodelTest\TestDomain\bin\Debug\ReflectionMapper.dll
+Y:\dot net workspace\Frameworks\SupermodelTest\TestDomain\bin\Debug\Supermodel.dll
+Y:\dot net workspace\Frameworks\SupermodelTest\TestDomain\bin\Debug\System.Web.Http.dll
+Y:\dot net workspace\Frameworks\SupermodelTest\TestDomain\bin\Debug\Newtonsoft.Json.dll
+Y:\dot net workspace\Frameworks\SupermodelTest\TestDomain\bin\Debug\System.Net.Http.Formatting.dll
+Y:\dot net workspace\Frameworks\SupermodelTest\TestDomain\bin\Debug\ReflectionMapper.pdb
+Y:\dot net workspace\Frameworks\SupermodelTest\TestDomain\bin\Debug\Supermodel.pdb
+Y:\dot net workspace\Frameworks\SupermodelTest\TestDomain\bin\Debug\EntityFramework.xml
+Y:\dot net workspace\Frameworks\SupermodelTest\TestDomain\bin\Debug\System.Web.Http.xml
+Y:\dot net workspace\Frameworks\SupermodelTest\TestDomain\bin\Debug\Newtonsoft.Json.xml
+Y:\dot net workspace\Frameworks\SupermodelTest\TestDomain\bin\Debug\System.Net.Http.Formatting.xml
+Y:\dot net workspace\Frameworks\SupermodelTest\TestDomain\obj\Debug\TestDomain.csprojResolveAssemblyReference.cache
+Y:\dot net workspace\Frameworks\SupermodelTest\TestDomain\obj\Debug\TestDomain.dll
+Y:\dot net workspace\Frameworks\SupermodelTest\TestDomain\obj\Debug\TestDomain.pdb
+C:\Users\Ilya\Documents\dot net workspace\Frameworks\SupermodelTest\TestDomain\bin\Debug\TestDomain.dll.config
+C:\Users\Ilya\Documents\dot net workspace\Frameworks\SupermodelTest\TestDomain\bin\Debug\TestDomain.dll
+C:\Users\Ilya\Documents\dot net workspace\Frameworks\SupermodelTest\TestDomain\bin\Debug\TestDomain.pdb
+C:\Users\Ilya\Documents\dot net workspace\Frameworks\SupermodelTest\TestDomain\bin\Debug\EntityFramework.dll
+C:\Users\Ilya\Documents\dot net workspace\Frameworks\SupermodelTest\TestDomain\bin\Debug\ReflectionMapper.dll
+C:\Users\Ilya\Documents\dot net workspace\Frameworks\SupermodelTest\TestDomain\bin\Debug\Supermodel.dll
+C:\Users\Ilya\Documents\dot net workspace\Frameworks\SupermodelTest\TestDomain\bin\Debug\System.Web.Http.dll
+C:\Users\Ilya\Documents\dot net workspace\Frameworks\SupermodelTest\TestDomain\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ilya\Documents\dot net workspace\Frameworks\SupermodelTest\TestDomain\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Ilya\Documents\dot net workspace\Frameworks\SupermodelTest\TestDomain\bin\Debug\ReflectionMapper.pdb
+C:\Users\Ilya\Documents\dot net workspace\Frameworks\SupermodelTest\TestDomain\bin\Debug\Supermodel.pdb
+C:\Users\Ilya\Documents\dot net workspace\Frameworks\SupermodelTest\TestDomain\bin\Debug\EntityFramework.xml
+C:\Users\Ilya\Documents\dot net workspace\Frameworks\SupermodelTest\TestDomain\bin\Debug\System.Web.Http.xml
+C:\Users\Ilya\Documents\dot net workspace\Frameworks\SupermodelTest\TestDomain\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ilya\Documents\dot net workspace\Frameworks\SupermodelTest\TestDomain\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Ilya\Documents\dot net workspace\Frameworks\SupermodelTest\TestDomain\obj\Debug\TestDomain.csprojResolveAssemblyReference.cache
+C:\Users\Ilya\Documents\dot net workspace\Frameworks\SupermodelTest\TestDomain\obj\Debug\TestDomain.dll
+C:\Users\Ilya\Documents\dot net workspace\Frameworks\SupermodelTest\TestDomain\obj\Debug\TestDomain.pdb

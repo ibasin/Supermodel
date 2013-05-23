@@ -1,0 +1,11 @@
+﻿@using Supermodel.Mvc.Extensions
+@using TestDomain.Entities
+
+@model TestGroupMvcModel
+
+@{
+    ViewBag.Title = "Edit";
+    //Layout = "~/Views/Shared/SETSLayout.cshtml";
+}
+
+@(Html.Supermodel().CRUDEdit<TestGroup, TestGroupMvcModel>("Group"))

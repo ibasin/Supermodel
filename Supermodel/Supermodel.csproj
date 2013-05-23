@@ -1,0 +1,285 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{8277677A-3F80-46A1-812E-013CB48B3158}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Supermodel</RootNamespace>
+    <AssemblyName>Supermodel</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Staging|AnyCPU'">
+    <OutputPath>bin\Staging\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisIgnoreBuiltInRuleSets>false</CodeAnalysisIgnoreBuiltInRuleSets>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Prod|AnyCPU'">
+    <OutputPath>bin\Prod\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisIgnoreBuiltInRuleSets>false</CodeAnalysisIgnoreBuiltInRuleSets>
+    <CodeAnalysisIgnoreBuiltInRules>true</CodeAnalysisIgnoreBuiltInRules>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Dev|AnyCPU'">
+    <OutputPath>bin\Dev\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework">
+      <HintPath>..\..\packages\EntityFramework.5.0.0\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Web.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <Private>True</Private>
+      <HintPath>..\..\packages\Microsoft.Web.Infrastructure.1.0.0.0\lib\net40\Microsoft.Web.Infrastructure.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="Newtonsoft.Json, Version=4.5.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\packages\Newtonsoft.Json.4.5.10\lib\net40\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Data.Entity" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Net.Http.Formatting, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\..\packages\Microsoft.AspNet.WebApi.Client.4.0.20710.0\lib\net40\System.Net.Http.Formatting.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net.Http.WebRequest" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Helpers, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <Private>True</Private>
+      <HintPath>..\..\packages\Microsoft.AspNet.WebPages.2.0.20710.0\lib\net40\System.Web.Helpers.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Http, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\..\packages\Microsoft.AspNet.WebApi.Core.4.0.20710.0\lib\net40\System.Web.Http.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Http.WebHost, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\..\packages\Microsoft.AspNet.WebApi.WebHost.4.0.20710.0\lib\net40\System.Web.Http.WebHost.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Mvc, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <Private>True</Private>
+      <HintPath>..\..\packages\Microsoft.AspNet.Mvc.4.0.20710.0\lib\net40\System.Web.Mvc.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Razor, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <Private>True</Private>
+      <HintPath>..\..\packages\Microsoft.AspNet.Razor.2.0.20715.0\lib\net40\System.Web.Razor.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.WebPages, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <Private>True</Private>
+      <HintPath>..\..\packages\Microsoft.AspNet.WebPages.2.0.20710.0\lib\net40\System.Web.WebPages.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.WebPages.Deployment, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <Private>True</Private>
+      <HintPath>..\..\packages\Microsoft.AspNet.WebPages.2.0.20710.0\lib\net40\System.Web.WebPages.Deployment.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.WebPages.Razor, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <Private>True</Private>
+      <HintPath>..\..\packages\Microsoft.AspNet.WebPages.2.0.20710.0\lib\net40\System.Web.WebPages.Razor.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BasicAuthInfo.cs" />
+    <Compile Include="DDD\Models\CommonValueTypes\Address.cs" />
+    <Compile Include="DDD\Models\CommonValueTypes\Geolocation.cs" />
+    <Compile Include="DDD\Models\Data\EFDataModelConfigForEntity.cs" />
+    <Compile Include="DDD\Models\Data\EFDataModelConfigForValueType.cs" />
+    <Compile Include="DDD\Models\Domain\BinaryFile.cs" />
+    <Compile Include="DDD\Models\Domain\IEntity.cs" />
+    <Compile Include="DDD\Models\Validation\ValidationResultList.cs" />
+    <Compile Include="DDD\Models\View\Mvc\Metadata\HideLabelAttribute.cs" />
+    <Compile Include="DDD\Models\View\Mvc\JQMobile\UIComponents\JQMobile_BinaryFileMvcModel.cs" />
+    <Compile Include="DDD\Models\View\Mvc\JQMobile\UIComponents\JQMobile_Checkbox.cs" />
+    <Compile Include="DDD\Models\View\Mvc\JQMobile\UIComponents\JQMobile_CheckboxesListHorizontalMvcModel.cs" />
+    <Compile Include="DDD\Models\View\Mvc\JQMobile\UIComponents\JQMobile_CheckboxesListVerticalMvcModel.cs" />
+    <Compile Include="DDD\Models\View\Mvc\JQMobile\UIComponents\JQMobile_ImageMvcModel.cs" />
+    <Compile Include="DDD\Models\View\Mvc\Metadata\DisabledAttribute.cs" />
+    <Compile Include="DDD\Models\View\Mvc\JQMobile\JQMobile_ChildMvcModelForEntity.cs" />
+    <Compile Include="DDD\Models\View\Mvc\JQMobile\JQMobile_MvcModel.cs" />
+    <Compile Include="DDD\Models\View\Mvc\JQMobile\JQMobile_MvcModelForEntity.cs" />
+    <Compile Include="DDD\Models\View\Mvc\JQMobile\UIComponents\JQMobile_RadioSelectHorizontalMvcModelUsingEnum.cs" />
+    <Compile Include="DDD\Models\View\Mvc\JQMobile\UIComponents\JQMobile_RadioSelectHorizontalMvcModelUsing.cs" />
+    <Compile Include="DDD\Models\View\Mvc\JQMobile\UIComponents\JQMobile_RadioSelectHorizontalMvcModel.cs" />
+    <Compile Include="DDD\Models\View\Mvc\JQMobile\UIComponents\JQMobile_DropdownMvcModelUsingEnum.cs" />
+    <Compile Include="DDD\Models\View\Mvc\JQMobile\UIComponents\JQMobile_DropdownMvcModelForEntity.cs" />
+    <Compile Include="DDD\Models\View\Mvc\JQMobile\UIComponents\JQMobile_DropdownMvcModel.cs" />
+    <Compile Include="DDD\Models\View\Mvc\JQMobile\UIComponents\JQMobile_DateMvcModel.cs" />
+    <Compile Include="DDD\Models\View\Mvc\JQMobile\UIComponents\JQMobile_DropdownMvcModelUsing.cs" />
+    <Compile Include="DDD\Models\View\Mvc\JQMobile\UIComponents\JQMobile_RadioSelectVerticalMvcModel.cs" />
+    <Compile Include="DDD\Models\View\Mvc\JQMobile\UIComponents\JQMobile_RadioSelectVerticalMvcModelUsing.cs" />
+    <Compile Include="DDD\Models\View\Mvc\JQMobile\UIComponents\JQMobile_RadioSelectVerticalMvcModelUsingEnum.cs" />
+    <Compile Include="DDD\Models\View\Mvc\JQMobile\UIComponents\JQMobile_SearchBoxMvcModel.cs" />
+    <Compile Include="DDD\Models\View\Mvc\JQMobile\UIComponents\JQMobile_SliderMvcModel.cs" />
+    <Compile Include="DDD\Models\View\Mvc\JQMobile\UIComponents\JQMobile_TextBoxForDoubleMvcModel.cs" />
+    <Compile Include="DDD\Models\View\Mvc\JQMobile\UIComponents\JQMobile_TextBoxForEmailMvcModel.cs" />
+    <Compile Include="DDD\Models\View\Mvc\JQMobile\UIComponents\JQMobile_TextBoxForIntMvcModel.cs" />
+    <Compile Include="DDD\Models\View\Mvc\JQMobile\UIComponents\JQMobile_TextBoxForPasswordMvcModel.cs" />
+    <Compile Include="DDD\Models\View\Mvc\JQMobile\UIComponents\JQMobile_TextBoxForTelephoneMvcModel.cs" />
+    <Compile Include="DDD\Models\View\Mvc\JQMobile\UIComponents\JQMobile_TextBoxForUrlMvcModel.cs" />
+    <Compile Include="DDD\Models\View\Mvc\JQMobile\UIComponents\TextBoxForNumberMvcModelBase.cs" />
+    <Compile Include="DDD\Models\View\Mvc\JQMobile\UIComponents\JQMobile_TextBoxForStringMvcModel.cs" />
+    <Compile Include="DDD\Models\View\Mvc\JQMobile\UIComponents\JQMobile_ToggleSwitchMvcModel.cs" />
+    <Compile Include="DDD\Models\View\Mvc\Metadata\DisplayOnlyAttribute.cs" />
+    <Compile Include="DDD\Models\View\Mvc\Metadata\ForceRequiredLabelAttribute.cs" />
+    <Compile Include="DDD\Models\View\Mvc\Metadata\MustBeGreaterOrEqualThanAttribute.cs" />
+    <Compile Include="DDD\Models\View\Mvc\Metadata\MustBeGreaterThanAttribute.cs" />
+    <Compile Include="DDD\Models\View\Mvc\Metadata\MustBeLessOrEqualThanAttribute.cs" />
+    <Compile Include="DDD\Models\View\Mvc\Metadata\MustBeLessThanAttribute.cs" />
+    <Compile Include="DDD\Models\View\Mvc\Metadata\MustEqualToAttribute.cs" />
+    <Compile Include="DDD\Models\View\Mvc\Metadata\NoRequiredLabelAttribute.cs" />
+    <Compile Include="DDD\Models\View\Mvc\Metadata\ScreenOrderAttribute.cs" />
+    <Compile Include="DDD\Models\View\Mvc\JQMobile\UIComponents\JQMobile_TextAreaMvcModel.cs" />
+    <Compile Include="DDD\Models\View\Mvc\ScaffoldingSettings.cs" />
+    <Compile Include="DDD\Models\View\Mvc\Metadata\EmailAttribute.cs" />
+    <Compile Include="DDD\Models\View\Mvc\UIComponents\DropdownMvcModelForEntity.cs" />
+    <Compile Include="DDD\Models\View\Mvc\UIComponents\ImageMvcModel.cs" />
+    <Compile Include="DDD\Models\View\Mvc\UIComponents\RadioSelectMvcModel.cs" />
+    <Compile Include="DDD\UnitOfWork\MustBeWritable.cs" />
+    <Compile Include="DDD\UnitOfWork\ReadOnly.cs" />
+    <Compile Include="DDD\Models\View\WebApi\ChildApiModelForEntity.cs" />
+    <Compile Include="DDD\UnitOfWork\EFUnitOfWorkIfNoAmbientContext.cs" />
+    <Compile Include="DDD\UnitOfWork\EFUnitOfWork.cs" />
+    <Compile Include="EmbeddedResources\EmbeddedResource.cs" />
+    <Compile Include="EnumUtil.cs" />
+    <Compile Include="Mvc\Config.cs" />
+    <Compile Include="Mvc\Controllers\ChildCRUDController.cs" />
+    <Compile Include="Mvc\Controllers\Common.cs" />
+    <Compile Include="Mvc\Controllers\CRUDController.cs" />
+    <Compile Include="Mvc\Controllers\IChildCRUDController.cs" />
+    <Compile Include="Mvc\Controllers\ICRUDController.cs" />
+    <Compile Include="Mvc\Extensions\SupermodelNamespaceControllerTypeExtensions.cs" />
+    <Compile Include="Mvc\Extensions\SupermodelNamespaceControllerExtensions.cs" />
+    <Compile Include="Mvc\Extensions\SupermodelNamespaceHtmlHelperExtensions.cs" />
+    <Compile Include="Mvc\Extensions\SupermodelNamespaceGateway.cs" />
+    <Compile Include="Mvc\Extensions\SupermodelNamespaceMvcHtmlStringExtensions.cs" />
+    <Compile Include="Mvc\Extensions\SupermodelNamespaceStringExtensions.cs" />
+    <Compile Include="Mvc\Extensions\SupermodelNamespaceTempDataDictionaryExtensions.cs" />
+    <Compile Include="Mvc\InitializerManager.cs" />
+    <Compile Include="DDD\Models\Extensions\GetDescriptionScreenOrderExtension.cs" />
+    <Compile Include="Mvc\DefaultModelBinders\SupermodelDefaultModelBinder.cs" />
+    <Compile Include="DDD\Models\Domain\Entity.cs" />
+    <Compile Include="SupermodelExceptions.cs" />
+    <Compile Include="Mvc\Extensions\ViewDataContainer.cs" />
+    <Compile Include="Mvc\HandleApiErrorAttribute.cs" />
+    <Compile Include="DDD\Models\View\Mvc\MvcModelForEntityCore.cs" />
+    <Compile Include="DDD\Models\View\Mvc\MvcModelForEntity.cs" />
+    <Compile Include="DDD\Models\View\Mvc\MvcModel.cs" />
+    <Compile Include="DDD\Models\View\Mvc\UIComponents\CheckboxesListMvcModelUsing.cs" />
+    <Compile Include="DDD\Models\View\Mvc\UIComponents\DropdownMvcModel.cs" />
+    <Compile Include="DDD\Models\View\Mvc\UIComponents\DropdownMvcModelUsing.cs" />
+    <Compile Include="DDD\Models\View\Mvc\UIComponents\ListBoxMvcModelUsing.cs" />
+    <Compile Include="DDD\Models\View\Mvc\UIComponents\MultiSelectMvcModelCore.cs" />
+    <Compile Include="DDD\Models\View\WebApi\ApiModelForEntity.cs" />
+    <Compile Include="DDD\Models\View\WebApi\ApiModel.cs" />
+    <Compile Include="DDD\Models\View\IViewModelForEntity.cs" />
+    <Compile Include="Mvc\HttpsOnly.cs" />
+    <Compile Include="Mvc\HttpResponseHelper.cs" />
+    <Compile Include="DDD\Models\View\Mvc\UIComponents\RadioSelectMvcModelUsing.cs" />
+    <Compile Include="DDD\Models\View\Mvc\UIComponents\RadioSelectMvcModelUsingEnum.cs" />
+    <Compile Include="RegexHelper.cs" />
+    <Compile Include="DDD\Repository\ISqlLinqEFDataRepo.cs" />
+    <Compile Include="DDD\Repository\ISqlDataRepoGenericTypeIgnorant.cs" />
+    <Compile Include="DDD\Repository\ISqlDataRepoReadOnly.cs" />
+    <Compile Include="DDD\Repository\ISqlDataRepoWriteOnly.cs" />
+    <Compile Include="DDD\Repository\ISqlLinqDataRepo.cs" />
+    <Compile Include="SupermodelInitialization.cs" />
+    <Compile Include="DDD\Models\View\Mvc\ChildMvcModelForEntity.cs" />
+    <Compile Include="DDD\Models\View\Mvc\UIComponents\BinaryFileMvcModel.cs" />
+    <Compile Include="DDD\Models\View\Mvc\UIComponents\DateMvcModel.cs" />
+    <Compile Include="DDD\Models\View\Mvc\UIComponents\DropdownMvcModelUsingEnum.cs" />
+    <Compile Include="DDD\Models\View\Mvc\Metadata\ComparisonAttribute.cs" />
+    <Compile Include="DDD\Models\View\Mvc\UIComponents\MultiSelectMvcModelBase.cs" />
+    <Compile Include="DDD\Models\View\Mvc\IMvcModelDisplayTemplate.cs" />
+    <Compile Include="DDD\Models\View\Mvc\IMvcModelEditorTemplate.cs" />
+    <Compile Include="DDD\Models\View\Mvc\IMvcModelModelBinder.cs" />
+    <Compile Include="DDD\Models\View\Mvc\Metadata\HtmlAttrAttribute.cs" />
+    <Compile Include="DDD\Models\View\Mvc\Metadata\SupermodelTemplateMetadataProvider.cs" />
+    <Compile Include="Mvc\HTTPActions.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SupermodelReflectionHelper.cs" />
+    <Compile Include="DDD\Repository\IRepoFactory.cs" />
+    <Compile Include="DDD\Repository\ISqlDataRepo.cs" />
+    <Compile Include="DDD\Repository\RepoFactory.cs" />
+    <Compile Include="DDD\Repository\SqlLinqEFSimpleRepo.cs" />
+    <Compile Include="DDD\UnitOfWork\EFDbContext.cs" />
+    <Compile Include="DDD\UnitOfWork\DbContextAmbientContext.cs" />
+    <Compile Include="DDD\Models\View\ViewModel.cs" />
+    <Compile Include="UtilsLib.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ReflectionMapper\ReflectionMapper.csproj">
+      <Project>{F56A1530-D452-4703-9AAE-C030AB19C2A1}</Project>
+      <Name>ReflectionMapper</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="EmbeddedResources\ConfirmationDialogScript.html" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="EmbeddedResources\ModalDialogScript.html" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="DDD\Models\View\Mvc\JQMobile\StaticResources\ReadMe.txt" />
+    <Content Include="DDD\Models\View\Mvc\JQMobile\StaticResources\SupermodelJQMobile.css" />
+    <Content Include="DDD\Models\View\Mvc\JQMobile\StaticResources\SupermodelJQMobileBlankStartup.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

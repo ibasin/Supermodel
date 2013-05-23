@@ -1,0 +1,9 @@
+C:\Projects\SETS\Frameworks\XMLParsingExtForLINQ\bin\Release\XMLParsingExtForLINQ.dll
+C:\Projects\SETS\Frameworks\XMLParsingExtForLINQ\bin\Release\XMLParsingExtForLINQ.pdb
+C:\Projects\SETS\Frameworks\XMLParsingExtForLINQ\obj\Release\ResolveAssemblyReference.cache
+C:\Projects\SETS\Frameworks\XMLParsingExtForLINQ\obj\Release\XMLParsingExtForLINQ.dll
+C:\Projects\SETS\Frameworks\XMLParsingExtForLINQ\obj\Release\XMLParsingExtForLINQ.pdb
+Y:\dot net workspace\Frameworks\XMLParsingExtForLINQ\bin\Release\XMLParsingExtForLINQ.dll
+Y:\dot net workspace\Frameworks\XMLParsingExtForLINQ\bin\Release\XMLParsingExtForLINQ.pdb
+Y:\dot net workspace\Frameworks\XMLParsingExtForLINQ\obj\Release\XMLParsingExtForLINQ.dll
+Y:\dot net workspace\Frameworks\XMLParsingExtForLINQ\obj\Release\XMLParsingExtForLINQ.pdb

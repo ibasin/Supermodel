@@ -1,0 +1,10 @@
+C:\Projects\SETS\Frameworks\BrowserEmulator\bin\Release\BrowserEmulator.dll
+C:\Projects\SETS\Frameworks\BrowserEmulator\bin\Release\BrowserEmulator.pdb
+C:\Projects\SETS\Frameworks\BrowserEmulator\obj\Release\ResolveAssemblyReference.cache
+C:\Projects\SETS\Frameworks\BrowserEmulator\obj\Release\BrowserEmulator.dll
+C:\Projects\SETS\Frameworks\BrowserEmulator\obj\Release\BrowserEmulator.pdb
+Y:\dot net workspace\Frameworks\BrowserEmulator\bin\Release\BrowserEmulator.dll
+Y:\dot net workspace\Frameworks\BrowserEmulator\bin\Release\BrowserEmulator.pdb
+Y:\dot net workspace\Frameworks\BrowserEmulator\obj\Release\BrowserEmulator.csprojResolveAssemblyReference.cache
+Y:\dot net workspace\Frameworks\BrowserEmulator\obj\Release\BrowserEmulator.dll
+Y:\dot net workspace\Frameworks\BrowserEmulator\obj\Release\BrowserEmulator.pdb

@@ -1,0 +1,12 @@
+﻿@using Supermodel.Mvc.Extensions
+@using TestDomain.Entities
+@using TestWeb.Controllers
+
+@model List<TestPersonMvcModel>
+
+@{
+    ViewBag.Title = "List";
+    //Layout = "~/Views/Shared/SETSLayout.cshtml";
+}
+
+@(Html.Supermodel().CRUDList<TestPerson, TestPersonMvcModel>(Model, typeof(TestPeopleController), "Person"))

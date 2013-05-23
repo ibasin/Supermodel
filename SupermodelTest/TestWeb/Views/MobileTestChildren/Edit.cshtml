@@ -1,0 +1,10 @@
+﻿@using Supermodel.Mvc.Extensions
+@using TestDomain.Entities
+
+@model TestChildMobileMvcModel
+
+@{
+    Layout = "~/Views/Shared/MasterLayout.cshtml";
+}
+
+@(Html.Supermodel().CRUDEditJQMobile<TestChild, TestChildMobileMvcModel>())

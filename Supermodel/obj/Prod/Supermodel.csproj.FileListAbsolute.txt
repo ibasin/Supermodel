@@ -1,0 +1,39 @@
+C:\Projects\SETS\Frameworks\Supermodel\bin\Prod\Supermodel.dll
+C:\Projects\SETS\Frameworks\Supermodel\bin\Prod\Supermodel.pdb
+C:\Projects\SETS\Frameworks\Supermodel\bin\Prod\EntityFramework.dll
+C:\Projects\SETS\Frameworks\Supermodel\bin\Prod\System.Web.Mvc.dll
+C:\Projects\SETS\Frameworks\Supermodel\bin\Prod\System.Web.Mvc.pdb
+C:\Projects\SETS\Frameworks\Supermodel\obj\Prod\ResolveAssemblyReference.cache
+C:\Projects\SETS\Frameworks\Supermodel\obj\Prod\Supermodel.dll
+C:\Projects\SETS\Frameworks\Supermodel\obj\Prod\Supermodel.pdb
+C:\Users\Ilya\Documents\dot net workspace\Frameworks\Supermodel\bin\Prod\Supermodel.dll.config
+C:\Users\Ilya\Documents\dot net workspace\Frameworks\Supermodel\bin\Prod\Supermodel.dll
+C:\Users\Ilya\Documents\dot net workspace\Frameworks\Supermodel\bin\Prod\Supermodel.pdb
+C:\Users\Ilya\Documents\dot net workspace\Frameworks\Supermodel\bin\Prod\EntityFramework.dll
+C:\Users\Ilya\Documents\dot net workspace\Frameworks\Supermodel\bin\Prod\Microsoft.Web.Infrastructure.dll
+C:\Users\Ilya\Documents\dot net workspace\Frameworks\Supermodel\bin\Prod\Newtonsoft.Json.dll
+C:\Users\Ilya\Documents\dot net workspace\Frameworks\Supermodel\bin\Prod\ReflectionMapper.dll
+C:\Users\Ilya\Documents\dot net workspace\Frameworks\Supermodel\bin\Prod\System.Net.Http.Formatting.dll
+C:\Users\Ilya\Documents\dot net workspace\Frameworks\Supermodel\bin\Prod\System.Web.Helpers.dll
+C:\Users\Ilya\Documents\dot net workspace\Frameworks\Supermodel\bin\Prod\System.Web.Http.dll
+C:\Users\Ilya\Documents\dot net workspace\Frameworks\Supermodel\bin\Prod\System.Web.Http.WebHost.dll
+C:\Users\Ilya\Documents\dot net workspace\Frameworks\Supermodel\bin\Prod\System.Web.Mvc.dll
+C:\Users\Ilya\Documents\dot net workspace\Frameworks\Supermodel\bin\Prod\System.Web.Razor.dll
+C:\Users\Ilya\Documents\dot net workspace\Frameworks\Supermodel\bin\Prod\System.Web.WebPages.Deployment.dll
+C:\Users\Ilya\Documents\dot net workspace\Frameworks\Supermodel\bin\Prod\System.Web.WebPages.dll
+C:\Users\Ilya\Documents\dot net workspace\Frameworks\Supermodel\bin\Prod\System.Web.WebPages.Razor.dll
+C:\Users\Ilya\Documents\dot net workspace\Frameworks\Supermodel\bin\Prod\ReflectionMapper.pdb
+C:\Users\Ilya\Documents\dot net workspace\Frameworks\Supermodel\bin\Prod\EntityFramework.xml
+C:\Users\Ilya\Documents\dot net workspace\Frameworks\Supermodel\bin\Prod\Newtonsoft.Json.xml
+C:\Users\Ilya\Documents\dot net workspace\Frameworks\Supermodel\bin\Prod\System.Net.Http.Formatting.xml
+C:\Users\Ilya\Documents\dot net workspace\Frameworks\Supermodel\bin\Prod\System.Web.Helpers.xml
+C:\Users\Ilya\Documents\dot net workspace\Frameworks\Supermodel\bin\Prod\System.Web.Http.xml
+C:\Users\Ilya\Documents\dot net workspace\Frameworks\Supermodel\bin\Prod\System.Web.Http.WebHost.xml
+C:\Users\Ilya\Documents\dot net workspace\Frameworks\Supermodel\bin\Prod\System.Web.Mvc.xml
+C:\Users\Ilya\Documents\dot net workspace\Frameworks\Supermodel\bin\Prod\System.Web.Razor.xml
+C:\Users\Ilya\Documents\dot net workspace\Frameworks\Supermodel\bin\Prod\System.Web.WebPages.xml
+C:\Users\Ilya\Documents\dot net workspace\Frameworks\Supermodel\bin\Prod\System.Web.WebPages.Deployment.xml
+C:\Users\Ilya\Documents\dot net workspace\Frameworks\Supermodel\bin\Prod\System.Web.WebPages.Razor.xml
+C:\Users\Ilya\Documents\dot net workspace\Frameworks\Supermodel\obj\Prod\Supermodel.csprojResolveAssemblyReference.cache
+C:\Users\Ilya\Documents\dot net workspace\Frameworks\Supermodel\obj\Prod\Supermodel.dll
+C:\Users\Ilya\Documents\dot net workspace\Frameworks\Supermodel\obj\Prod\Supermodel.pdb

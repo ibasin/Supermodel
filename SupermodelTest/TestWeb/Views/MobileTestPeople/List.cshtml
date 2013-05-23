@@ -1,0 +1,11 @@
+﻿@using Supermodel.Mvc.Extensions
+@using TestDomain.Entities
+@using TestWeb.Controllers
+
+@model List<TestPersonMobileMvcModel>
+
+@{
+    ViewBag.Title = "List";
+    Layout = "~/Views/Shared/MasterLayout.cshtml";
+}
+@(Html.Supermodel().CRUDListJQMobile<TestPerson, TestPersonMobileMvcModel>(Model, typeof(MobileTestPeopleController), "People"))

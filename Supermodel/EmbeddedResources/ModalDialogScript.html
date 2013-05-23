@@ -1,0 +1,15 @@
+﻿setTimeout(function(){
+    $(document).simpledialog2({
+        mode: 'button',
+        headerText: '',
+        headerClose: false,
+        buttonPrompt: '{%Message%}',
+        buttons: {
+            'Ok': { click: function () { /*do nothing*/}, },
+        }
+    });
+    $(".ui-simpledialog-container").css("z-index", 1500); //.css("top", (screen.height / 2 - $(".ui-simpledialog-container").height() / 2).toString() + "px")
+    $(".ui-simpledialog-screen").css("z-index", 1499).height($(document).height());
+}, 300);
+
+

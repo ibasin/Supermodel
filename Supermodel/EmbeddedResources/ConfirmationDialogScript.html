@@ -1,0 +1,34 @@
+﻿(function () {
+    var hasConfirmed = false;
+    $('input[type=submit][data-sm-ConfirmMsg], input[type=button][data-sm-ConfirmMsg], a[data-sm-ConfirmMsg], button[data-sm-ConfirmMsg]').click(function () {
+        var $this = $(this);
+        $this.parent().removeClass("ui-btn-active");
+        if (!hasConfirmed) {
+            $(document).simpledialog2({
+                mode: 'button',
+                headerText: '',
+                headerClose: false,
+                buttonPrompt: $this.attr('data-sm-ConfirmMsg'),
+                buttons: {
+                    'Yes': {
+                        click: function () {
+                            hasConfirmed = true;
+                            $this.trigger('click');
+                            hasConfirmed = false;
+                        },
+                        theme: 'f'
+                    },
+                    'No': {
+                        click: function() { /*do nothing*/ },
+                        icon: 'delete',
+                        theme: 'c'
+                    }
+                }
+            });
+            $(".ui-simpledialog-container").css("z-index", 1500);
+            $(".ui-simpledialog-screen").css("z-index", 1499).height($(document).height());
+            return false;
+        }
+        return true;
+    });
+})();
