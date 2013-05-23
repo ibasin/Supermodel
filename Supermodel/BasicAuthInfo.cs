@@ -4,6 +4,8 @@ using System.Web;
 
 namespace Supermodel
 {
+    //Added a comment
+    
     /// <summary>
     /// This class Base64 encodes username and password in a cookie; it therefore must occur over SSL.
     /// </summary>
