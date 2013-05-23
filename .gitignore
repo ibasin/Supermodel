@@ -1,10 +1,6 @@
-
 #ignore thumbnails created by windows
 Thumbs.db
 #Ignore files build by Visual Studio
-*.obj
-*.exe
-*.pdb
 *.user
 *.aps
 *.pch
@@ -13,17 +9,30 @@ Thumbs.db
 *_p.c
 *.ncb
 *.suo
-*.tlb
-*.tlh
 *.bak
 *.cache
 *.ilk
 *.log
-[Bb]in
-[Dd]ebug*/
-*.lib
+[Bb]in/
+[Dd]ebug/
 *.sbr
 obj/
-[Rr]elease*/
+[Rr]elease/
+
+# Mac Directory Files
+.DS_Store
+
+#Resharper Cache
 _ReSharper*/
-[Tt]est[Rr]esult*
+#Resharper Personal Settings
+*.sln.DotSettings.User
+
+# Mac directory file
+.DS_Store
+
+# Don't share publish profiles because they contain user-specific info like local publish directory or auth credentials
+*Local publish.pubxml
+TEMT/TEMTWeb/Properties/PublishProfiles/Local publish.pubxml
+
+# Excel Temp Files
+*~$*.xlsx
